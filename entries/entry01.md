@@ -1,5 +1,11 @@
 # Entry 1
 
-Text
+The “Freedom Project” for Intro to Computer Science is a year-long project that will allow students to apply what we learn on a daily basis and reflecting on it in our blogs. Towards the end of the course, the students will present their ideas. The purpose of this blog is to reflect upon our learning and recap what we learned inside and outside of school. 
+
+For my project, I am addressing the issue of obesity caused by the lack of sleep. I want to let the audience aware of how obesity and sleep correlates. Most people believe that weight gain is only related to your calorie intakes but in reality, a great factor that applies is also sleep. By addressing this issue, people can learn to not take sleep for granted along with realizing how much it can impact the body. As you can see, this blog will talk about how metabolism and sleep can lead to weight gain.
+
+Unfortunately, society has made it seem like a typical good looking body is more to the fit side. Nowadays most teenagers will like to fall under the “fit” category. Increasing your sleep will help you get closer to this goal. This will make you feel closer to societal norms. Being closer to these norms could play a major role in your self-esteem. To add on having self-esteem can help you be more confident in yourself. Being confident is one feature that employers look for, which could help you get a job and be an overall more alluring person. On the other hand, obesity and lack of sleep can affect your behavior with people. If your emotional health and your sleep are affected negatively it could have an impact, in which simple activities may become harder. These activities may include focusing on thoughts, trying to express yourself with others and completing the task from work or school. All activities mentioned above are essential when working with others in a job environment or even with friends. At your job not being able to express yourself can lead to miscommunication. At school focusing on your assignment and completing them may become harder. Making not only your grades drop but it also affects the communication you have with your teacher. Given these points, I want to let the readers aware of the correlation between sleep and obesity as well as how it can affect you on a social and economic level. 
+
+Some things to keep in mind would be to do research on how teenagers could increase sleep even with all the stress they receive in school. 
 
 [Home](../README.md)
